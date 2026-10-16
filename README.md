@@ -56,6 +56,7 @@ python3 -m http.server 8000
 ## Фотографии
 
 <img width="1886" height="741" alt="image" src="https://github.com/user-attachments/assets/c9f15032-09b6-43d6-b35c-cc332bc20718" />
+<img width="1198" height="806" alt="image" src="https://github.com/user-attachments/assets/fb89b1e8-589f-4b78-ba43-4529b18eecc5" />
 
 
 ## Структура
